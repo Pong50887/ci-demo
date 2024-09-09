@@ -1,5 +1,5 @@
-![example workflow](https://github.com/Pong50887/ci-demo/tree/master/.github/workflows/python-unittest.yml/badge.svg)
-![example workflow](https://github.com/Pong50887/ci-demo/tree/master/.github/workflows/style-checking.yml/badge.svg)
+[![Run unit tests](https://github.com/Pong50887/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/Pong50887/ci-demo/actions/workflows/python-unittest.yml)
+[![style checking](https://github.com/Pong50887/ci-demo/actions/workflows/style-checking.yml/badge.svg)](https://github.com/Pong50887/ci-demo/actions/workflows/style-checking.yml)
 
 Continuous Integration Demo
 ===========================
