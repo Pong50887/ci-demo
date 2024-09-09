@@ -1,3 +1,6 @@
+https://github.com/Pong50887/ci-demo/tree/master/.github/workflows/python-unittest.yml/badge.svg
+https://github.com/Pong50887/ci-demo/tree/master/.github/workflows/style-checking.yml/badge.svg
+
 Continuous Integration Demo
 ===========================
 
