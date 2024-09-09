@@ -1,4 +1,4 @@
-"""This is statistics module"""
+"""This is statistics module."""
 from math import sqrt
 
 
@@ -10,7 +10,7 @@ def average(data):
 
 
 def variance(data):
-    """Population variance of a list numbers in data.
+    """Find the mean of the data.
 
     The variance is the sum of squared differences between data values
     and their mean, divided by the number of items in the list.
