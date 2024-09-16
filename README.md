@@ -1,6 +1,6 @@
 [![Run unit tests](https://github.com/Pong50887/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/Pong50887/ci-demo/actions/workflows/python-unittest.yml)
 [![style checking](https://github.com/Pong50887/ci-demo/actions/workflows/style-checking.yml/badge.svg)](https://github.com/Pong50887/ci-demo/actions/workflows/style-checking.yml)
-[![Coverage testing](https://github.com/Pong50887/ci-demo/actions/workflows/coverage-test.yml/badge.svg)](https://github.com/Pong50887/ci-demo/actions/workflows/coverage-test.yml)
+
 
 Continuous Integration Demo
 ===========================
