@@ -5,9 +5,9 @@ name: Coverage testing
 
 on:
   push:
-    branches: [ "--branch" ]
+    branches: [ "master" ]
   pull_request:
-    branches: [ "--branch" ]
+    branches: [ "master" ]
 
 permissions:
   contents: read
